@@ -9,7 +9,7 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 -- select * From MyPortfolioProject1..CovidDeaths
 -- Order By 3, 4
 
-
+-- Testing Data
 -- Select Data that we are going to be starting with
 
 Select Location, date, total_cases, new_cases, total_deaths, population
